@@ -1,0 +1,371 @@
+{
+    "time_start": "22:00",
+    "time_end": "4:00",
+    "statistics": [
+        {
+            "cr": {
+                "Web Technology": 3
+            }
+        },
+        {
+            "us": {
+                "Outdoors": 858
+            }
+        },
+        {
+            "eg": {
+                "New Technology": 4
+            }
+        },
+        {
+            "cl": {
+                "Software Development": 11
+            }
+        },
+        {
+            "il": {
+                "Startup Businesses": 4
+            }
+        },
+        {
+            "ro": {
+                "Wellness": 3
+            }
+        },
+        {
+            "jp": {
+                "Language Exchange": 57
+            }
+        },
+        {
+            "vn": {
+                "Language Exchange": 2
+            }
+        },
+        {
+            "pl": {
+                "Software Development": 6
+            }
+        },
+        {
+            "cn": {
+                "Education & Technology": 2
+            }
+        },
+        {
+            "za": {
+                "Dining Out": 2
+            }
+        },
+        {
+            "pt": {
+                "Machine Learning": 8
+            }
+        },
+        {
+            "ke": {
+                "Computer programming": 4
+            }
+        },
+        {
+            "in": {
+                "Web Development": 29
+            }
+        },
+        {
+            "au": {
+                "Outdoors": 95
+            }
+        },
+        {
+            "pk": {
+                "Community Building": 2
+            }
+        },
+        {
+            "sg": {
+                "Cloud Computing": 3
+            }
+        },
+        {
+            "ae": {
+                "Technology": 14
+            }
+        },
+        {
+            "hk": {
+                "Wellness": 7
+            }
+        },
+        {
+            "be": {
+                "Recreational Sports": 4
+            }
+        },
+        {
+            "tw": {
+                "Software Development": 3
+            }
+        },
+        {
+            "gb": {
+                "Social": 51
+            }
+        },
+        {
+            "lr": {
+                "Mobile Technology": 1
+            }
+        },
+        {
+            "ec": {
+                "JavaScript": 1
+            }
+        },
+        {
+            "sa": {
+                "Entrepreneur Networking": 2
+            }
+        },
+        {
+            "co": {
+                "Computer programming": 13
+            }
+        },
+        {
+            "tr": {
+                "Software Development": 6
+            }
+        },
+        {
+            "de": {
+                "New Technology": 29
+            }
+        },
+        {
+            "lu": {
+                "Programming Languages": 1
+            }
+        },
+        {
+            "tt": {
+                "Women's Empowerment": 1
+            }
+        },
+        {
+            "br": {
+                "Software Development": 60
+            }
+        },
+        {
+            "gt": {
+                "Finance": 5
+            }
+        },
+        {
+            "jo": {
+                "Deep Learning": 2
+            }
+        },
+        {
+            "es": {
+                "New In Town": 44
+            }
+        },
+        {
+            "hr": {
+                "Hybrid Apps": 1
+            }
+        },
+        {
+            "rs": {
+                "Algorithms": 1
+            }
+        },
+        {
+            "kr": {
+                "Travel": 8
+            }
+        },
+        {
+            "it": {
+                "Social Networking": 7
+            }
+        },
+        {
+            "uy": {
+                "Happy Hour": 4
+            }
+        },
+        {
+            "pe": {
+                "Software Development": 18
+            }
+        },
+        {
+            "py": {
+                "Agile Project Management": 1
+            }
+        },
+        {
+            "ar": {
+                "Software Development": 31
+            }
+        },
+        {
+            "bo": {
+                "Artificial Intelligence Programming": 1
+            }
+        },
+        {
+            "nl": {
+                "Software Development": 11
+            }
+        },
+        {
+            "al": {
+                "Education & Technology": 2
+            }
+        },
+        {
+            "ca": {
+                "Social Networking": 80
+            }
+        },
+        {
+            "my": {
+                "Self-Improvement": 6
+            }
+        },
+        {
+            "nz": {
+                "Social": 43
+            }
+        },
+        {
+            "gr": {
+                "Load Testing and Performance": 2
+            }
+        },
+        {
+            "lk": {
+                "Agile Transformation": 1
+            }
+        },
+        {
+            "ru": {
+                "Android Development": 3
+            }
+        },
+        {
+            "cm": {
+                "Web Design": 1
+            }
+        },
+        {
+            "th": {
+                "Outdoors": 4
+            }
+        },
+        {
+            "ch": {
+                "Outdoors": 12
+            }
+        },
+        {
+            "cw": {
+                "Agile Project Management": 1
+            }
+        },
+        {
+            "ng": {
+                "Software Development": 6
+            }
+        },
+        {
+            "gh": {
+                "DevOps": 2
+            }
+        },
+        {
+            "ma": {
+                "Ember JS": 5
+            }
+        },
+        {
+            "pa": {
+                "Mobile Development": 4
+            }
+        },
+        {
+            "no": {
+                "Fun Times": 3
+            }
+        },
+        {
+            "ug": {
+                "WordPress Users": 1
+            }
+        },
+        {
+            "cy": {
+                "Critical Thinking": 2
+            }
+        },
+        {
+            "at": {
+                "Social Networking": 5
+            }
+        },
+        {
+            "dz": {
+                "Collaboration between Creative Minds": 1
+            }
+        },
+        {
+            "cz": {
+                "Dining Out": 6
+            }
+        },
+        {
+            "ua": {
+                "Computer programming": 5
+            }
+        },
+        {
+            "mx": {
+                "DevOps": 13
+            }
+        },
+        {
+            "fr": {
+                "Language & Culture": 29
+            }
+        },
+        {
+            "se": {
+                "Computer programming": 5
+            }
+        },
+        {
+            "ie": {
+                "Self-Improvement": 7
+            }
+        },
+        {
+            "dk": {
+                "Cloud Computing": 4
+            }
+        },
+        {
+            "id": {
+                "Online Education & Technology For Educators and HR": 7
+            }
+        },
+        {
+            "bh": {
+                "Deep Learning": 5
+            }
+        }
+    ]
+}
