@@ -4,9 +4,6 @@ import boto3
 import datetime
 import json
 
-ACCESS_KEY = "ASIAXM3NASL624LT5SUJ"
-SECRET_KEY = "j7roGd8wTh/zi06pVPMBuWEqfYMlyJpSd8rpAo6C"
-SESSION_TOKEN = "FwoGZXIvYXdzEAMaDLIVPEpZ36PhzzjynyLEAV0Z4NmkVhp5UFpedTyut9glhCUkT0Fh697IhurF0PMZigDEIP4Y4afSr+19if+kJMrR5Wp2pSTEtQH1yfQsWjZezfEl7a5zfT/UHyjTpmC7qDZgW1cnBC8xwtHCONvlGm0rj3ZEUCR55WcE0H0oHxMY6EnYWIR7c7u3CNKBvhZL+J5f7TtPiSN5vky8aeYhLTOponKLMfzgugjsV8rp6/FPaRgvp2VgbA4G6fLhDQOywp9kYZvq9Ri91sKt3LWWqO7IBaooruKQ9wUyLT+xxMg/CgcOGXRZHdLDwBwlLKGhWMaX/BIEV94vbOgLYs7ZMxYP+dC1QJCyZw=="
 
 app = Flask(__name__)
 api = Api(app)

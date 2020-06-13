@@ -8,10 +8,6 @@ import json
 import boto3
 import os
 
-ACCESS_KEY = "ASIAXM3NASL65IFFFKUM"
-SECRET_KEY = "0I8AvhiWa2sS/iLTNLWKmHBrgagtSBkskUCXJ664"
-SESSION_TOKEN = "FwoGZXIvYXdzEP///////////wEaDBUil4saIx5l3HqdtiLEAXbtvkuLzgi1FRcS6Yt6gFFz4mJ82228O7xir5PXI51IoV8b2UiRTHuSc3P+P10tT6F1fDbAA57aOF5xFmEtotFDByYKITSrz2PAPF4JWyWYj8NlsplvLTRmbHF7E152sVd9Rg4hjQA2fXkY2vVxe3gh5+d4PJ0C4QvXAW/Z2gUBIikW9o7drnDFH1wQzEA1mQoBQ10SUDKVrCbwVL9zqo9VQfkKzOm7aHXeopULvH1qPXti24D72k44PCGwtOM7IMrEWH4oqPaP9wUyLZfp3seZEMKMmldfwpDpzUzJS90uila2uAgPRsCOR+92pbrGDTWkzliWTLda+g=="
-
 s3r = boto3.resource('s3', aws_access_key_id=ACCESS_KEY,
                      aws_secret_access_key=SECRET_KEY, aws_session_token=SESSION_TOKEN)
 
